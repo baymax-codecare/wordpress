@@ -1,0 +1,24 @@
+2019-10-09T09:08:14+00:00 CRITICAL syntax error, unexpected ':' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/services_template.php on line 105
+
+2019-10-09T09:09:42+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/services_template.php on line 110
+
+2019-10-09T09:11:03+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/services_template.php on line 110
+
+2019-10-09T09:11:03+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/services_template.php on line 110
+
+2019-10-09T09:11:45+00:00 CRITICAL Uncaught Error: Call to undefined function have_post() in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/services_template.php:105
+Stack trace:
+#0 /home/demowebsite/public_html/erp_cars/wp-includes/template-loader.php(78): include()
+#1 /home/demowebsite/public_html/erp_cars/wp-blog-header.php(19): require_once('/home/demowebsi...')
+#2 /home/demowebsite/public_html/erp_cars/index.php(17): require('/home/demowebsi...')
+#3 {main}
+  thrown in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/services_template.php on line 105
+
+2019-10-09T13:55:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_breadcrumb() in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/contact_us_template.php:14
+Stack trace:
+#0 /home/demowebsite/public_html/erp_cars/wp-includes/template-loader.php(78): include()
+#1 /home/demowebsite/public_html/erp_cars/wp-blog-header.php(19): require_once('/home/demowebsi...')
+#2 /home/demowebsite/public_html/erp_cars/index.php(17): require('/home/demowebsi...')
+#3 {main}
+  thrown in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/contact_us_template.php on line 14
+

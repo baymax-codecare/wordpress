@@ -1,0 +1,8 @@
+2019-10-12T10:18:40+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 244
+
+2019-10-12T10:19:07+00:00 CRITICAL Object of class WP_User could not be converted to string in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 245
+
+2019-10-12T13:49:26+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 159
+
+2019-10-12T15:08:29+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 157
+

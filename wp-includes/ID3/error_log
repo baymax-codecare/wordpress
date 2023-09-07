@@ -1,0 +1,1 @@
+[15-Mar-2020 09:11:18 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/starosmq/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

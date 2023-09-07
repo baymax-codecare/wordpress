@@ -1,0 +1,24 @@
+2019-10-14T07:59:14+00:00 CRITICAL syntax error, unexpected end of file in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 190
+
+2019-10-14T08:00:14+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 87
+
+2019-10-14T08:00:42+00:00 CRITICAL syntax error, unexpected end of file, expecting '`' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 178
+
+2019-10-14T08:01:17+00:00 CRITICAL syntax error, unexpected end of file, expecting '`' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 176
+
+2019-10-14T08:01:22+00:00 CRITICAL syntax error, unexpected end of file, expecting '`' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 176
+
+2019-10-14T08:01:22+00:00 CRITICAL syntax error, unexpected end of file, expecting '`' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 176
+
+2019-10-14T08:02:33+00:00 CRITICAL syntax error, unexpected end of file, expecting '`' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 176
+
+2019-10-14T08:03:22+00:00 CRITICAL syntax error, unexpected ')' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 78
+
+2019-10-14T08:03:37+00:00 CRITICAL syntax error, unexpected end of file, expecting '`' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 176
+
+2019-10-14T08:11:51+00:00 CRITICAL syntax error, unexpected end of file in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 195
+
+2019-10-14T09:35:39+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 153
+
+2019-10-14T09:36:56+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /home/demowebsite/public_html/erp_cars/wp-content/themes/erp-cars/register_template.php on line 154
+
